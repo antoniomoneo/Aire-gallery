@@ -1,0 +1,253 @@
+{
+  "type": "ai-scenario",
+  "author": "por",
+  "title": "Escenario IA: bicis 2030",
+  "userPrompt": "bicis 2030",
+  "aiExplanation": "Este escenario simula una reducción progresiva en los niveles de NO₂ en Madrid a partir de 2025, reflejando el impacto de políticas ambiciosas para fomentar el uso de bicicletas y reducir el tráfico motorizado. Se proyecta que para 2030, los niveles de NO₂ alcancen una nueva meseta baja, manteniendo una ligera tendencia decreciente en los años posteriores.",
+  "config": {
+    "pollutant": "NO2",
+    "historicalData": [
+      {
+        "date": "2001",
+        "value": 54.47
+      },
+      {
+        "date": "2002",
+        "value": 56.48
+      },
+      {
+        "date": "2003",
+        "value": 55.02
+      },
+      {
+        "date": "2004",
+        "value": 54.89
+      },
+      {
+        "date": "2005",
+        "value": 55.03
+      },
+      {
+        "date": "2006",
+        "value": 54.23
+      },
+      {
+        "date": "2007",
+        "value": 54.68
+      },
+      {
+        "date": "2008",
+        "value": 45.13
+      },
+      {
+        "date": "2009",
+        "value": 45.02
+      },
+      {
+        "date": "2010",
+        "value": 45.8
+      },
+      {
+        "date": "2011",
+        "value": 43.67
+      },
+      {
+        "date": "2012",
+        "value": 44.16
+      },
+      {
+        "date": "2013",
+        "value": 44.62
+      },
+      {
+        "date": "2014",
+        "value": 45.76
+      },
+      {
+        "date": "2015",
+        "value": 46.25
+      },
+      {
+        "date": "2016",
+        "value": 46.64
+      },
+      {
+        "date": "2017",
+        "value": 52.42
+      },
+      {
+        "date": "2018",
+        "value": 47.02
+      },
+      {
+        "date": "2019",
+        "value": 34.92
+      },
+      {
+        "date": "2020",
+        "value": 21.95
+      },
+      {
+        "date": "2021",
+        "value": 23.94
+      },
+      {
+        "date": "2022",
+        "value": 24.25
+      },
+      {
+        "date": "2023",
+        "value": 24.26
+      },
+      {
+        "date": "2024",
+        "value": 23.55
+      }
+    ],
+    "simulatedData": [
+      {
+        "date": "2001",
+        "value": 54.47
+      },
+      {
+        "date": "2002",
+        "value": 56.48
+      },
+      {
+        "date": "2003",
+        "value": 55.02
+      },
+      {
+        "date": "2004",
+        "value": 54.89
+      },
+      {
+        "date": "2005",
+        "value": 55.03
+      },
+      {
+        "date": "2006",
+        "value": 54.23
+      },
+      {
+        "date": "2007",
+        "value": 54.68
+      },
+      {
+        "date": "2008",
+        "value": 45.13
+      },
+      {
+        "date": "2009",
+        "value": 45.02
+      },
+      {
+        "date": "2010",
+        "value": 45.8
+      },
+      {
+        "date": "2011",
+        "value": 43.67
+      },
+      {
+        "date": "2012",
+        "value": 44.16
+      },
+      {
+        "date": "2013",
+        "value": 44.62
+      },
+      {
+        "date": "2014",
+        "value": 45.76
+      },
+      {
+        "date": "2015",
+        "value": 46.25
+      },
+      {
+        "date": "2016",
+        "value": 46.64
+      },
+      {
+        "date": "2017",
+        "value": 52.42
+      },
+      {
+        "date": "2018",
+        "value": 47.02
+      },
+      {
+        "date": "2019",
+        "value": 34.92
+      },
+      {
+        "date": "2020",
+        "value": 21.95
+      },
+      {
+        "date": "2021",
+        "value": 23.94
+      },
+      {
+        "date": "2022",
+        "value": 24.25
+      },
+      {
+        "date": "2023",
+        "value": 24.26
+      },
+      {
+        "date": "2024",
+        "value": 23.55
+      },
+      {
+        "date": "2025",
+        "value": 22
+      },
+      {
+        "date": "2026",
+        "value": 20.8
+      },
+      {
+        "date": "2027",
+        "value": 19.5
+      },
+      {
+        "date": "2028",
+        "value": 18.3
+      },
+      {
+        "date": "2029",
+        "value": 17
+      },
+      {
+        "date": "2030",
+        "value": 16
+      },
+      {
+        "date": "2031",
+        "value": 15.8
+      },
+      {
+        "date": "2032",
+        "value": 15.6
+      },
+      {
+        "date": "2033",
+        "value": 15.4
+      },
+      {
+        "date": "2034",
+        "value": 15.2
+      },
+      {
+        "date": "2035",
+        "value": 15
+      }
+    ]
+  },
+  "id": "1de77566-77fb-4fca-84c3-5ffc4c33e99a",
+  "createdAt": "2025-09-04T14:46:53.283Z",
+  "votes": 0
+}
