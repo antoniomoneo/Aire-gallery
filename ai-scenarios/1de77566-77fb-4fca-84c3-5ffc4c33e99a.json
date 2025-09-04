@@ -3,7 +3,7 @@
   "author": "por",
   "title": "Escenario IA: bicis 2030",
   "userPrompt": "bicis 2030",
-  "aiExplanation": "Este escenario simula una reducción progresiva en los niveles de NO₂ en Madrid a partir de 2025, reflejando el impacto de políticas ambiciosas para fomentar el uso de bicicletas y reducir el tráfico motorizado. Se proyecta que para 2030, los niveles de NO₂ alcancen una nueva meseta baja, manteniendo una ligera tendencia decreciente en los años posteriores.",
+  "aiExplanation": "Este escenario simula una reducciÃ³n progresiva en los niveles de NOâ en Madrid a partir de 2025, reflejando el impacto de polÃ­ticas ambiciosas para fomentar el uso de bicicletas y reducir el trÃ¡fico motorizado. Se proyecta que para 2030, los niveles de NOâ alcancen una nueva meseta baja, manteniendo una ligera tendencia decreciente en los aÃ±os posteriores.",
   "config": {
     "pollutant": "NO2",
     "historicalData": [
@@ -249,5 +249,5 @@
   },
   "id": "1de77566-77fb-4fca-84c3-5ffc4c33e99a",
   "createdAt": "2025-09-04T14:46:53.283Z",
-  "votes": 0
+  "votes": 1
 }
