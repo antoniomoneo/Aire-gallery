@@ -1,0 +1,233 @@
+{
+  "type": "ai-scenario",
+  "author": "Antonio",
+  "title": "Escenario IA: un futuro con todos los coches electricos",
+  "userPrompt": "un futuro con todos los coches electricos",
+  "aiExplanation": "Esta simulación proyecta un escenario donde la adopción de vehículos eléctricos se acelera significativamente a partir de 2025. Los datos históricos hasta 2024 se mantienen sin cambios, mientras que para los años posteriores se modela una reducción progresiva del NO₂ hasta alcanzar niveles muy bajos, reflejando la eliminación casi total de las emisiones vehiculares.",
+  "config": {
+    "pollutant": "NO2",
+    "historicalData": [
+      {
+        "date": "2001",
+        "value": 54.47
+      },
+      {
+        "date": "2002",
+        "value": 56.48
+      },
+      {
+        "date": "2003",
+        "value": 55.02
+      },
+      {
+        "date": "2004",
+        "value": 54.89
+      },
+      {
+        "date": "2005",
+        "value": 55.03
+      },
+      {
+        "date": "2006",
+        "value": 54.23
+      },
+      {
+        "date": "2007",
+        "value": 54.68
+      },
+      {
+        "date": "2008",
+        "value": 45.13
+      },
+      {
+        "date": "2009",
+        "value": 45.02
+      },
+      {
+        "date": "2010",
+        "value": 45.8
+      },
+      {
+        "date": "2011",
+        "value": 43.67
+      },
+      {
+        "date": "2012",
+        "value": 44.16
+      },
+      {
+        "date": "2013",
+        "value": 44.62
+      },
+      {
+        "date": "2014",
+        "value": 45.76
+      },
+      {
+        "date": "2015",
+        "value": 46.25
+      },
+      {
+        "date": "2016",
+        "value": 46.64
+      },
+      {
+        "date": "2017",
+        "value": 52.42
+      },
+      {
+        "date": "2018",
+        "value": 47.02
+      },
+      {
+        "date": "2019",
+        "value": 34.92
+      },
+      {
+        "date": "2020",
+        "value": 21.95
+      },
+      {
+        "date": "2021",
+        "value": 23.94
+      },
+      {
+        "date": "2022",
+        "value": 24.25
+      },
+      {
+        "date": "2023",
+        "value": 24.26
+      },
+      {
+        "date": "2024",
+        "value": 23.55
+      }
+    ],
+    "simulatedData": [
+      {
+        "date": "2001",
+        "value": 54.47
+      },
+      {
+        "date": "2002",
+        "value": 56.48
+      },
+      {
+        "date": "2003",
+        "value": 55.02
+      },
+      {
+        "date": "2004",
+        "value": 54.89
+      },
+      {
+        "date": "2005",
+        "value": 55.03
+      },
+      {
+        "date": "2006",
+        "value": 54.23
+      },
+      {
+        "date": "2007",
+        "value": 54.68
+      },
+      {
+        "date": "2008",
+        "value": 45.13
+      },
+      {
+        "date": "2009",
+        "value": 45.02
+      },
+      {
+        "date": "2010",
+        "value": 45.8
+      },
+      {
+        "date": "2011",
+        "value": 43.67
+      },
+      {
+        "date": "2012",
+        "value": 44.16
+      },
+      {
+        "date": "2013",
+        "value": 44.62
+      },
+      {
+        "date": "2014",
+        "value": 45.76
+      },
+      {
+        "date": "2015",
+        "value": 46.25
+      },
+      {
+        "date": "2016",
+        "value": 46.64
+      },
+      {
+        "date": "2017",
+        "value": 52.42
+      },
+      {
+        "date": "2018",
+        "value": 47.02
+      },
+      {
+        "date": "2019",
+        "value": 34.92
+      },
+      {
+        "date": "2020",
+        "value": 21.95
+      },
+      {
+        "date": "2021",
+        "value": 23.94
+      },
+      {
+        "date": "2022",
+        "value": 24.25
+      },
+      {
+        "date": "2023",
+        "value": 24.26
+      },
+      {
+        "date": "2024",
+        "value": 23.55
+      },
+      {
+        "date": "2025",
+        "value": 20.96
+      },
+      {
+        "date": "2026",
+        "value": 18.37
+      },
+      {
+        "date": "2027",
+        "value": 15.78
+      },
+      {
+        "date": "2028",
+        "value": 13.19
+      },
+      {
+        "date": "2029",
+        "value": 10.6
+      },
+      {
+        "date": "2030",
+        "value": 8.01
+      }
+    ]
+  },
+  "id": "57761d5f-a879-433b-abd4-52f8e6db05b6",
+  "createdAt": "2025-09-08T15:45:18.270Z",
+  "votes": 0
+}
