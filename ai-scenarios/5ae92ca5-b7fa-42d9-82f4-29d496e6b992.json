@@ -1,0 +1,209 @@
+{
+  "type": "ai-scenario",
+  "author": "Antonio",
+  "title": "Escenario IA: qué pasaría si todas las calderas fueran de gas na...",
+  "userPrompt": "qué pasaría si todas las calderas fueran de gas natural?",
+  "aiExplanation": "Para simular el escenario de todas las calderas funcionando con gas natural, se ha aplicado una reducción del 10% a los niveles históricos de NO₂ a partir de 2008. Esta modificación refleja la menor emisión de óxidos de nitrógeno que genera la combustión de gas natural frente a otros combustibles. Los datos anteriores a 2008 se mantienen inalterados, asumiendo que el impacto de una transición masiva comenzaría a ser perceptible a partir de esa fecha.",
+  "config": {
+    "pollutant": "NO2",
+    "historicalData": [
+      {
+        "date": "2001",
+        "value": 54.47
+      },
+      {
+        "date": "2002",
+        "value": 56.48
+      },
+      {
+        "date": "2003",
+        "value": 55.02
+      },
+      {
+        "date": "2004",
+        "value": 54.89
+      },
+      {
+        "date": "2005",
+        "value": 55.03
+      },
+      {
+        "date": "2006",
+        "value": 54.23
+      },
+      {
+        "date": "2007",
+        "value": 54.68
+      },
+      {
+        "date": "2008",
+        "value": 45.13
+      },
+      {
+        "date": "2009",
+        "value": 45.02
+      },
+      {
+        "date": "2010",
+        "value": 45.8
+      },
+      {
+        "date": "2011",
+        "value": 43.67
+      },
+      {
+        "date": "2012",
+        "value": 44.16
+      },
+      {
+        "date": "2013",
+        "value": 44.62
+      },
+      {
+        "date": "2014",
+        "value": 45.76
+      },
+      {
+        "date": "2015",
+        "value": 46.25
+      },
+      {
+        "date": "2016",
+        "value": 46.64
+      },
+      {
+        "date": "2017",
+        "value": 52.42
+      },
+      {
+        "date": "2018",
+        "value": 47.02
+      },
+      {
+        "date": "2019",
+        "value": 34.92
+      },
+      {
+        "date": "2020",
+        "value": 21.95
+      },
+      {
+        "date": "2021",
+        "value": 23.94
+      },
+      {
+        "date": "2022",
+        "value": 24.25
+      },
+      {
+        "date": "2023",
+        "value": 24.26
+      },
+      {
+        "date": "2024",
+        "value": 23.55
+      }
+    ],
+    "simulatedData": [
+      {
+        "date": "2001",
+        "value": 54.47
+      },
+      {
+        "date": "2002",
+        "value": 56.48
+      },
+      {
+        "date": "2003",
+        "value": 55.02
+      },
+      {
+        "date": "2004",
+        "value": 54.89
+      },
+      {
+        "date": "2005",
+        "value": 55.03
+      },
+      {
+        "date": "2006",
+        "value": 54.23
+      },
+      {
+        "date": "2007",
+        "value": 54.68
+      },
+      {
+        "date": "2008",
+        "value": 40.62
+      },
+      {
+        "date": "2009",
+        "value": 40.52
+      },
+      {
+        "date": "2010",
+        "value": 41.22
+      },
+      {
+        "date": "2011",
+        "value": 39.3
+      },
+      {
+        "date": "2012",
+        "value": 39.74
+      },
+      {
+        "date": "2013",
+        "value": 40.16
+      },
+      {
+        "date": "2014",
+        "value": 41.18
+      },
+      {
+        "date": "2015",
+        "value": 41.63
+      },
+      {
+        "date": "2016",
+        "value": 41.98
+      },
+      {
+        "date": "2017",
+        "value": 47.18
+      },
+      {
+        "date": "2018",
+        "value": 42.32
+      },
+      {
+        "date": "2019",
+        "value": 31.43
+      },
+      {
+        "date": "2020",
+        "value": 19.76
+      },
+      {
+        "date": "2021",
+        "value": 21.55
+      },
+      {
+        "date": "2022",
+        "value": 21.83
+      },
+      {
+        "date": "2023",
+        "value": 21.83
+      },
+      {
+        "date": "2024",
+        "value": 21.2
+      }
+    ]
+  },
+  "id": "5ae92ca5-b7fa-42d9-82f4-29d496e6b992",
+  "createdAt": "2025-09-12T05:30:52.420Z",
+  "votes": 0
+}
