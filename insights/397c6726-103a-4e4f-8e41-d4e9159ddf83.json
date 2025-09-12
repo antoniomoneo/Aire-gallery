@@ -1,0 +1,14 @@
+{
+  "type": "insight",
+  "author": "Antonio",
+  "title": "Análisis de Dióxido de Azufre (SO₂)",
+  "conclusion": "el ozono se ha convertido en una fuente de preocupación",
+  "recommendation": "investigar soluciones para prevenir el aumento de ozono troposferico",
+  "config": {
+    "pollutant": "SO2",
+    "aggregation": "annual"
+  },
+  "id": "397c6726-103a-4e4f-8e41-d4e9159ddf83",
+  "createdAt": "2025-09-12T05:31:43.393Z",
+  "votes": 0
+}
