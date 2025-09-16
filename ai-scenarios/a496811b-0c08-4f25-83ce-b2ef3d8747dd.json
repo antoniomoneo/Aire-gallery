@@ -1,0 +1,209 @@
+{
+  "type": "ai-scenario",
+  "author": "test",
+  "title": "Escenario IA: en 2022 spor la crisis economica se recupera el ga...",
+  "userPrompt": "en 2022 spor la crisis economica se recupera el gasogeno y los autobuses empiezan a quemar carbon",
+  "aiExplanation": "Este escenario simula un drástico deterioro en la calidad del aire a partir de 2022. La recuperación del gasógeno y el uso de carbón en autobuses provoca un aumento significativo de las PM₂.₅, revirtiendo años de mejoras y llevando los niveles muy por encima de los históricos recientes, con una tendencia creciente en los años subsiguientes.",
+  "config": {
+    "pollutant": "PM25",
+    "historicalData": [
+      {
+        "date": "2001",
+        "value": 14.82
+      },
+      {
+        "date": "2002",
+        "value": 14.58
+      },
+      {
+        "date": "2003",
+        "value": 14.27
+      },
+      {
+        "date": "2004",
+        "value": 13.93
+      },
+      {
+        "date": "2005",
+        "value": 13.64
+      },
+      {
+        "date": "2006",
+        "value": 13.28
+      },
+      {
+        "date": "2007",
+        "value": 12.94
+      },
+      {
+        "date": "2008",
+        "value": 12.53
+      },
+      {
+        "date": "2009",
+        "value": 12.2
+      },
+      {
+        "date": "2010",
+        "value": 11.88
+      },
+      {
+        "date": "2011",
+        "value": 11.59
+      },
+      {
+        "date": "2012",
+        "value": 11.28
+      },
+      {
+        "date": "2013",
+        "value": 10.99
+      },
+      {
+        "date": "2014",
+        "value": 10.66
+      },
+      {
+        "date": "2015",
+        "value": 10.35
+      },
+      {
+        "date": "2016",
+        "value": 9.97
+      },
+      {
+        "date": "2017",
+        "value": 9.63
+      },
+      {
+        "date": "2018",
+        "value": 9.3
+      },
+      {
+        "date": "2019",
+        "value": 8.95
+      },
+      {
+        "date": "2020",
+        "value": 8.62
+      },
+      {
+        "date": "2021",
+        "value": 8.35
+      },
+      {
+        "date": "2022",
+        "value": 8.07
+      },
+      {
+        "date": "2023",
+        "value": 7.78
+      },
+      {
+        "date": "2024",
+        "value": 7.4
+      }
+    ],
+    "simulatedData": [
+      {
+        "date": "2001",
+        "value": 14.82
+      },
+      {
+        "date": "2002",
+        "value": 14.58
+      },
+      {
+        "date": "2003",
+        "value": 14.27
+      },
+      {
+        "date": "2004",
+        "value": 13.93
+      },
+      {
+        "date": "2005",
+        "value": 13.64
+      },
+      {
+        "date": "2006",
+        "value": 13.28
+      },
+      {
+        "date": "2007",
+        "value": 12.94
+      },
+      {
+        "date": "2008",
+        "value": 12.53
+      },
+      {
+        "date": "2009",
+        "value": 12.2
+      },
+      {
+        "date": "2010",
+        "value": 11.88
+      },
+      {
+        "date": "2011",
+        "value": 11.59
+      },
+      {
+        "date": "2012",
+        "value": 11.28
+      },
+      {
+        "date": "2013",
+        "value": 10.99
+      },
+      {
+        "date": "2014",
+        "value": 10.66
+      },
+      {
+        "date": "2015",
+        "value": 10.35
+      },
+      {
+        "date": "2016",
+        "value": 9.97
+      },
+      {
+        "date": "2017",
+        "value": 9.63
+      },
+      {
+        "date": "2018",
+        "value": 9.3
+      },
+      {
+        "date": "2019",
+        "value": 8.95
+      },
+      {
+        "date": "2020",
+        "value": 8.62
+      },
+      {
+        "date": "2021",
+        "value": 8.35
+      },
+      {
+        "date": "2022",
+        "value": 15
+      },
+      {
+        "date": "2023",
+        "value": 16
+      },
+      {
+        "date": "2024",
+        "value": 17
+      }
+    ]
+  },
+  "id": "a496811b-0c08-4f25-83ce-b2ef3d8747dd",
+  "createdAt": "2025-09-16T11:20:34.305Z",
+  "votes": 0
+}
